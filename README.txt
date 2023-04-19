@@ -1,7 +1,7 @@
 # About mvc
 
 MVC is a PHP blueprint of the architectural setup for the development of dynamic web applications.
-It connect to a database via a PHP PDO class that instantiate a PDO object.  
+It connects to a database via a PHP PDO class that instantiate a PDO object.  
 
 
 # Installastion
